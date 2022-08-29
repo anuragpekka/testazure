@@ -5,3 +5,4 @@ Flask
 sklearn
 matplotlib
 PyYAML
+evidently
