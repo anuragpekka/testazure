@@ -4,3 +4,4 @@ pandas
 Flask
 sklearn
 matplotlib
+PyYAML
